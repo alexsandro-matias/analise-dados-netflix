@@ -19,3 +19,8 @@ venv/scripts/activate
 data raw (cru) - Todos os dados antes de qualquer processo de polimento ou processamento, do jeito que o dado foi extraído da maneira mais elementar.
 
 data ready - dados que já sofreram algum tipo de tratamento ou refinamento.
+
+
+
+# Passo inicial da análise de dados
+- Prezar pela confibilidade e rastreabilidade dos dados.
